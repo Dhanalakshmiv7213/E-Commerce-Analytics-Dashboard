@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #f4f6f9;
+}
+
+input,
+button {
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
